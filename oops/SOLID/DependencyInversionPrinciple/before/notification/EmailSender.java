@@ -12,7 +12,7 @@ valid.
 public class EmailSender {
     public static void notify(Employee employee){
     	//Configure and send mail here
-    	System.out.println("Sending mail to "+employee.getEmail());
-    	System.out.println("Mail sent to "+employee.getEmail());
+    	System.out.println("Sending mail to "+ employee.getEmail());
+    	System.out.println("Mail sent to "+ employee.getEmail());
 }
 }

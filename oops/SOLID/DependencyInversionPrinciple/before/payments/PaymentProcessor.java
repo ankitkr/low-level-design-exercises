@@ -5,7 +5,7 @@ import java.util.List;
 import oops.SOLID.DependencyInversionPrinciple.before.employees.Employee;
 import oops.SOLID.DependencyInversionPrinciple.before.notification.EmailSender;
 import oops.SOLID.DependencyInversionPrinciple.before.repositories.EmployeeFileRepository;
-import oops.SOLID.DependencyInversionPrinciple.before.serielizer.EmployeeFileSerializer;
+import oops.SOLID.DependencyInversionPrinciple.before.serializer.EmployeeFileSerializer;
 
 public class PaymentProcessor {
 
